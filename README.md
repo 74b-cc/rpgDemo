@@ -27,3 +27,9 @@ phaser3
 <image src="./imgs/demo.gif">
 
 
+
+## examples
+
+https://github.com/photonstorm/phaser3-examples
+
+
