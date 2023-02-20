@@ -16,9 +16,6 @@ tield
 
 phaser3
 
-## todo 
-
-1. design more map with tield
 
 ...
 
